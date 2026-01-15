@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "C:/Users/tonyp/Documents/Programming/Programming_Projects/Python/Intro_To_Python/12. Debugging/raise_assert.py", line 20, in <module>
+    raise Exception('This is the traceback error message.')
+Exception: This is the traceback error message.
+Traceback (most recent call last):
+  File "C:/Users/tonyp/Documents/Programming/Programming_Projects/Python/Intro_To_Python/12. Debugging/raise_assert.py", line 20, in <module>
+    raise Exception('This is the traceback error message.')
+Exception: This is the traceback error message.
+Traceback (most recent call last):
+  File "C:/Users/tonyp/Documents/Programming/Programming_Projects/Python/Intro_To_Python/12. Debugging/raise_assert.py", line 20, in <module>
+    raise Exception('This is the traceback error message.')
+Exception: This is the traceback error message.
+Traceback (most recent call last):
+  File "C:/Users/tonyp/Documents/Programming/Programming_Projects/Python/Intro_To_Python/12. Debugging/raise_assert.py", line 20, in <module>
+    raise Exception('This is the traceback error message.')
+Exception: This is the traceback error message.
